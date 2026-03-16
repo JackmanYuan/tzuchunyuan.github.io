@@ -23,9 +23,9 @@ National Center for High-performance Computing (NCHC)
 
 | Platform | Link |
 |--------|------|
-| GitHub | https://github.com/JackmanYuan |
-| LinkedIn | https://www.linkedin.com/in/cole-tzuchun-yuan |
-| Email | yjuaacnk@gmail.com |
+| GitHub | [https://github.com/JackmanYuan](https://github.com/JackmanYuan) |
+| LinkedIn | [https://www.linkedin.com/in/cole-tzuchun-yuan](https://www.linkedin.com/in/cole-tzuchun-yuan) |
+| Email | [yjuaacnk@gmail.com](yjuaacnk@gmail.com) |
 
 ---
 
@@ -42,6 +42,4 @@ National Center for High-performance Computing (NCHC)
 
 More projects and demos will be added soon.
 
-You can explore my work on GitHub:
-
-➡️ **https://github.com/JackmanYuan**
+You can explore my work on [**GitHub**](https://github.com/JackmanYuan)
